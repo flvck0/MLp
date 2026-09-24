@@ -1,0 +1,12 @@
+# Dataset e imágenes pesadas
+PlantVillage.zip
+data/
+plantvillage_outputs/
+outputs/
+
+# Entornos y archivos locales
+.venv/
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
