@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+healthy,0.9091,1.0,0.9524,60
+Early_blight,0.6727,0.6167,0.6435,60
+Late_blight,0.7778,0.7,0.7368,60
+Leaf_Mold,0.8413,0.8833,0.8618,60
+Bacterial_spot,0.8871,0.9167,0.9016,60

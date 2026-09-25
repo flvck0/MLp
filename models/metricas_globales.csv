@@ -1,0 +1,8 @@
+,valor
+Accuracy,0.8233
+Precision (macro),0.8176
+Recall (macro),0.8233
+F1-score (macro),0.8192
+Precision (weighted),0.8176
+Recall (weighted),0.8233
+F1-score (weighted),0.8192

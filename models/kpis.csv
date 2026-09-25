@@ -1,0 +1,5 @@
+KPI,meta,obtenido,cumple
+Accuracy (test),"≥ 0,60",0.8233,SÍ
+F1-score macro,"≥ 0,60",0.8192,SÍ
+Recall clases enfermas,"≥ 0,60",0.7792,SÍ
+Brecha de generalización,"≤ 0,15",0.1481,SÍ

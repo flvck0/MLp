@@ -1,0 +1,6 @@
+,healthy,Early_blight,Late_blight,Leaf_Mold,Bacterial_spot
+healthy,60,0,0,0,0
+Early_blight,2,37,9,6,6
+Late_blight,2,12,42,4,0
+Leaf_Mold,1,4,1,53,1
+Bacterial_spot,1,2,2,0,55
