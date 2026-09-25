@@ -217,7 +217,7 @@ línea por línea, está en las secciones 4 a 8 del notebook.)*
 
 **Arquitectura:** `Flatten → Dense(256) → Dense(128) → Dense(5, softmax)`, con
 BatchNormalization, Dropout(0,3), regularización L2 y aumento de datos
-(espejo horizontal + rotación ±5°) en el entrenamiento.
+(espejo horizontal + rotación ±18°) en el entrenamiento.
 
 | Aspecto | Valor |
 |---------|-------|

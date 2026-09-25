@@ -1,0 +1,301 @@
+path,label,label_id,predicho,confianza,correcto
+Tomato_Leaf_Mold/6b6edf2a-0cb5-4a38-a16f-dc8faf705c46___Crnl_L.Mold 9032.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9994439,True
+Tomato_Late_blight/2edc83c5-b45e-4f4e-ba56-1ff26c33abea___RS_Late.B 5614.JPG,Tomato_Late_blight,2,Tomato_Leaf_Mold,0.49784034,False
+Tomato_Leaf_Mold/4163864b-4d3b-4b6e-8174-e26b4dfc0a86___Crnl_L.Mold 8943.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.998237,True
+Tomato_Leaf_Mold/d662ce55-855f-4af0-84ef-6e0d9e5e468a___Crnl_L.Mold 6586.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.8556866,True
+Tomato_healthy/f437a6f0-4c35-4d6b-8eaa-ca57f18fad53___GH_HL Leaf 229.JPG,Tomato_healthy,0,Tomato_healthy,0.99953216,True
+Tomato_Early_blight/573fc55b-8a73-48ba-b916-5d7f397977e4___RS_Erly.B 8384.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.6924293,False
+Tomato_Bacterial_spot/3fa087fa-ee1e-4c2a-92da-66230e00ea44___UF.GRC_BS_Lab Leaf 0706.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.67208296,True
+Tomato_Bacterial_spot/7218c0f5-1083-4b2d-b0da-4c32edb279de___GCREC_Bact.Sp 3286.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9776605,True
+Tomato_Leaf_Mold/fd686c68-9a4a-4d11-98fa-7c612aff9fd4___Crnl_L.Mold 6974.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9971881,True
+Tomato_healthy/d5ccbb2a-258c-4963-bdd6-d7eb22f351a5___RS_HL 9946.JPG,Tomato_healthy,0,Tomato_healthy,0.9960391,True
+Tomato_Early_blight/2840c2f1-b901-41c2-8d0c-7827bc7f8ab3___RS_Erly.B 9574.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.7569384,True
+Tomato_Bacterial_spot/55f46365-0a3b-4194-b830-8b0b74bf1a19___GCREC_Bact.Sp 3106.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.92928004,True
+Tomato_Early_blight/2792287f-aa8e-4c03-aabe-479e75cdc0f8___RS_Erly.B 9584.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.68461984,True
+Tomato_Leaf_Mold/32e7769c-b63c-413a-a623-deebcdb2ec82___Crnl_L.Mold 8757.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.90957165,True
+Tomato_Bacterial_spot/f69eb99b-2cf8-4fb1-abea-b1bad4d9dad8___GCREC_Bact.Sp 6151.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.8225946,True
+Tomato_Early_blight/6376d980-2b10-4990-a58d-ca0e7dfc6af3___RS_Erly.B 8215.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.95142365,False
+Tomato_Leaf_Mold/b0636c15-fdf5-4835-a5f9-57875579f53b___Crnl_L.Mold 6668.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.8693612,True
+Tomato_Leaf_Mold/9667b27d-09e8-4776-97bf-e6088227d26d___Crnl_L.Mold 6670.JPG,Tomato_Leaf_Mold,3,Tomato_Early_blight,0.7877125,False
+Tomato_healthy/9c84597a-72a3-4e91-9203-92de6090462b___RS_HL 0040.JPG,Tomato_healthy,0,Tomato_healthy,0.93553525,True
+Tomato_healthy/2956235c-12ff-403f-be91-60868a42ad3e___RS_HL 9849.JPG,Tomato_healthy,0,Tomato_healthy,0.9914655,True
+Tomato_Bacterial_spot/d9a91bb5-35d8-459c-8c04-8a155bc6a158___GCREC_Bact.Sp 5592.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9905951,True
+Tomato_Bacterial_spot/90107060-4458-44d1-a2b3-20cd9e3d4d11___GCREC_Bact.Sp 5728.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9909056,True
+Tomato_Leaf_Mold/c02f3863-3012-4f3a-873e-8003d73a54f9___Crnl_L.Mold 6520.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.74637854,True
+Tomato_Early_blight/38685009-d6e6-4b3a-9957-bf049a210cda___RS_Erly.B 7606.JPG,Tomato_Early_blight,1,Tomato_Leaf_Mold,0.65764207,False
+Tomato_Bacterial_spot/7e2d95d8-61e7-4b3f-8425-a6bfd53e8490___UF.GRC_BS_Lab Leaf 0402.JPG,Tomato_Bacterial_spot,4,Tomato_Late_blight,0.7420346,False
+Tomato_Early_blight/d4f5f0b5-3706-437f-826c-6328d479cba6___RS_Erly.B 9516.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.9601064,True
+Tomato_Early_blight/b559ff8f-efd7-4897-8596-69447c2e6b89___RS_Erly.B 6409.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.50348216,True
+Tomato_healthy/2d4db3f7-a768-4a27-832c-fc72496e79b4___GH_HL Leaf 446.JPG,Tomato_healthy,0,Tomato_healthy,0.9997346,True
+Tomato_Leaf_Mold/efa60351-9550-43dc-b0a7-c74b591f29bf___Crnl_L.Mold 7083.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99990195,True
+Tomato_Early_blight/7e236dc3-40e2-4ff9-8356-4fb7a3fcc0ff___RS_Erly.B 6426.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.81146675,True
+Tomato_healthy/583238e5-392b-40ef-9bbe-be54bda61477___RS_HL 9869.JPG,Tomato_healthy,0,Tomato_healthy,0.7044934,True
+Tomato_Early_blight/ea08bf85-06df-41d8-8b09-29feb53cdccf___RS_Erly.B 7486.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.50119174,True
+Tomato_Leaf_Mold/36b5a4ab-5051-48a2-8af7-cc1577b58f17___Crnl_L.Mold 8835.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99455625,True
+Tomato_healthy/514c77da-8edc-4ce5-948c-fbab6f3b2d96___RS_HL 0478.JPG,Tomato_healthy,0,Tomato_healthy,0.93899083,True
+Tomato_Leaf_Mold/6e33ee8d-616a-47f2-8229-d4375c47346c___Crnl_L.Mold 8795.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9959059,True
+Tomato_Late_blight/413f7280-43ce-4f09-983c-8266588a6e67___RS_Late.B 7088.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.91512334,True
+Tomato_Leaf_Mold/d7ee8962-2ee6-4da6-aadd-d181aa54a498___Crnl_L.Mold 8922.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.26961544,True
+Tomato_Bacterial_spot/a6bbc7a3-0281-4fcc-b480-0917f3416908___UF.GRC_BS_Lab Leaf 9054.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.99822676,True
+Tomato_healthy/8425f91b-b758-4e82-a7cc-6ecc862c1a00___RS_HL 0255.JPG,Tomato_healthy,0,Tomato_healthy,0.88645685,True
+Tomato_Leaf_Mold/a6626e49-1ba7-4b37-9490-aff2b2ec03eb___Crnl_L.Mold 7141.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99444115,True
+Tomato_Late_blight/7d2ecdff-4eca-4f8e-b550-166d668498ba___GHLB2 Leaf 8602.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.97499186,True
+Tomato_Leaf_Mold/7107f26c-71de-4158-a361-068d5611d046___Crnl_L.Mold 6600.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.98098236,True
+Tomato_healthy/2a99d5af-218f-4332-a8ce-505301abdbfe___RS_HL 9693.JPG,Tomato_healthy,0,Tomato_healthy,0.85944563,True
+Tomato_healthy/377ffc94-d068-4ba0-80cc-dea49edf094d___RS_HL 0367.JPG,Tomato_healthy,0,Tomato_healthy,0.48528156,True
+Tomato_Early_blight/bdf7f885-1619-4b3f-bba8-e97896af0de5___RS_Erly.B 7819.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.75759923,True
+Tomato_Bacterial_spot/9920ea08-d9d7-464c-addb-c6ecebddf420___GCREC_Bact.Sp 5880.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9838614,True
+Tomato_healthy/20249fbb-29c5-40fb-985e-5a0b9f0e67b1___RS_HL 0117.JPG,Tomato_healthy,0,Tomato_healthy,0.9810217,True
+Tomato_Leaf_Mold/a99fee24-87a5-4945-878c-5d16240e27bd___Crnl_L.Mold 9133.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99971026,True
+Tomato_Leaf_Mold/5f3285ca-687c-4466-8581-93eb7d8a6af5___Crnl_L.Mold 6686.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.889549,True
+Tomato_Late_blight/239111ba-7348-4075-bacb-e206d440ecc8___RS_Late.B 5389.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.8587388,False
+Tomato_Early_blight/496e8f67-eec4-47be-9c37-b7e8fd4cf230___RS_Erly.B 7743.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.9737418,True
+Tomato_Bacterial_spot/166a69a7-cae0-4e6e-ac75-bc207a5335f4___GCREC_Bact.Sp 5705.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9874347,True
+Tomato_healthy/5575d52c-a773-41fa-a7bc-a09c1ad912f2___RS_HL 0353.JPG,Tomato_healthy,0,Tomato_healthy,0.9909776,True
+Tomato_healthy/247e79d6-1874-4ce4-a777-a03a4f94edbf___GH_HL Leaf 211.1.JPG,Tomato_healthy,0,Tomato_healthy,0.94852465,True
+Tomato_Leaf_Mold/70125561-7733-494a-a3e4-3d1674a89b04___Crnl_L.Mold 6717.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99295104,True
+Tomato_Late_blight/88e11fb2-9752-4c08-97d6-7392fbcf8a95___RS_Late.B 6176.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.6364315,False
+Tomato_Late_blight/4ef693d7-c1e2-4dbc-896d-874b5eb15d13___GHLB2 Leaf 8877.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9940071,True
+Tomato_healthy/beda9c8f-88eb-43c7-9670-60bd8fd5c43e___RS_HL 0038.JPG,Tomato_healthy,0,Tomato_healthy,0.9905402,True
+Tomato_Early_blight/752de1b6-d4be-4741-9812-3681c6bd4b40___RS_Erly.B 8308.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.9532684,True
+Tomato_healthy/e12936ac-7354-434c-b857-1e742e383dd5___RS_HL 9878.JPG,Tomato_healthy,0,Tomato_healthy,0.9979764,True
+Tomato_Leaf_Mold/bdc4e19c-87fc-4d84-8de7-a8663aed37f7___Crnl_L.Mold 8741.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9908043,True
+Tomato_Early_blight/1f402ddb-f3e8-4907-a793-320c8e43446a___RS_Erly.B 9460.JPG,Tomato_Early_blight,1,Tomato_Bacterial_spot,0.73281544,False
+Tomato_Bacterial_spot/8aec5b56-9ab2-4337-9544-c619d25650d7___GCREC_Bact.Sp 3579.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.93859935,True
+Tomato_Late_blight/cf21ccf7-0ad0-44cb-b541-a03d3921afcf___GHLB2 Leaf 8798.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9444518,True
+Tomato_healthy/003944fc-3b99-4a0f-9ed4-0e07352fd8b3___RS_HL 9844.JPG,Tomato_healthy,0,Tomato_healthy,0.76972336,True
+Tomato_Leaf_Mold/de7feb7f-caf7-4f98-90d4-096b0f130817___Crnl_L.Mold 6629.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9856035,True
+Tomato_healthy/dca7fa13-14bd-4d24-abbf-1fe2e02eac7e___GH_HL Leaf 295.JPG,Tomato_healthy,0,Tomato_healthy,0.99876356,True
+Tomato_Late_blight/ee85b4a0-f9ee-40a6-b612-66dd11414929___RS_Late.B 5069.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.7984639,False
+Tomato_Leaf_Mold/b0f88a05-dfca-4814-9080-fb0a3fa0ee0c___Crnl_L.Mold 6978.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.93778855,True
+Tomato_Bacterial_spot/0ab41c2e-c6fc-4ef1-9ffb-ce1b241d32be___GCREC_Bact.Sp 3426.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9543869,True
+Tomato_Early_blight/31e2b9eb-6005-493f-b1c7-293f3dd309dc___RS_Erly.B 7859.JPG,Tomato_Early_blight,1,Tomato_healthy,0.8501504,False
+Tomato_healthy/82a343d3-1a57-4190-b0d7-8e8c88e832a7___GH_HL Leaf 306.JPG,Tomato_healthy,0,Tomato_healthy,0.99981976,True
+Tomato_Late_blight/e5c62da4-e09d-4dc5-a5b1-63a5f85826de___RS_Late.B 6981.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.7159884,True
+Tomato_healthy/2f07c3a8-90db-4d61-b8e3-55b3c016c510___GH_HL Leaf 382.1.JPG,Tomato_healthy,0,Tomato_healthy,0.99878013,True
+Tomato_Late_blight/ed469069-15cf-4996-9f2a-ede8139d1543___RS_Late.B 4914.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9534836,True
+Tomato_healthy/c8c7cb85-d7eb-4d60-b90e-bfe5277b79ad___GH_HL Leaf 277.JPG,Tomato_healthy,0,Tomato_healthy,0.9968747,True
+Tomato_Early_blight/b8421c32-9111-49c0-8e78-f86a9912ece4___RS_Erly.B 7706.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.92766136,True
+Tomato_Late_blight/302da4a0-3b99-46ad-80f6-16ae585abf24___GHLB_PS Leaf 2.1 Day 18.jpg,Tomato_Late_blight,2,Tomato_Late_blight,0.9989385,True
+Tomato_Late_blight/70fa3718-7288-47cb-8e13-a16afbec4fe6___GHLB2 Leaf 127.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9868044,True
+Tomato_healthy/f44c5128-2575-4fda-82c7-9954ead65027___GH_HL Leaf 384.JPG,Tomato_healthy,0,Tomato_healthy,0.99831,True
+Tomato_Early_blight/b81b4276-e0c9-460a-ab94-79b6a5d0f2d6___RS_Erly.B 7538.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.8700069,True
+Tomato_Early_blight/e6645f63-afc8-416a-a4cb-0f5c719476ae___RS_Erly.B 6419.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.7664303,True
+Tomato_Leaf_Mold/f85b350c-a7cf-4652-87e7-5e039e82021d___Crnl_L.Mold 8927.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99995244,True
+Tomato_Late_blight/f879b7d4-efe4-4b31-8a89-35db50d561c9___RS_Late.B 4897.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.8826612,False
+Tomato_healthy/b114c6fb-8ce0-4342-8e31-00ad83c1e1a5___RS_HL 0358.JPG,Tomato_healthy,0,Tomato_healthy,0.8753905,True
+Tomato_Early_blight/e332b0b1-ed0c-49b0-aad2-da29a8636126___RS_Erly.B 9418.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.6720099,False
+Tomato_Late_blight/2d63d91d-5366-4f88-83e1-cc5ce4b16d2e___GHLB2 Leaf 156.1.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9957421,True
+Tomato_Bacterial_spot/b658ae6e-bdd0-4e49-8709-aa6afcb95c22___GCREC_Bact.Sp 5864.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.99536425,True
+Tomato_Bacterial_spot/7843b77e-20cc-4721-9eeb-62206d91af0e___GCREC_Bact.Sp 6144.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.44318703,True
+Tomato_healthy/d15336df-9f16-4f8b-805f-d74f27af2735___RS_HL 9723.JPG,Tomato_healthy,0,Tomato_healthy,0.98713404,True
+Tomato_Late_blight/e59e9af1-5baf-4eac-9afc-8ae3171fd062___GHLB2 Leaf 77.2.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.87231004,True
+Tomato_Bacterial_spot/ea5724f3-d1ff-4a32-b679-b08bdfc9b997___GCREC_Bact.Sp 3662.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.8893958,True
+Tomato_Bacterial_spot/badeca64-87ed-439a-b373-b4b872dbe173___GCREC_Bact.Sp 6219.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9116451,True
+Tomato_Late_blight/867d2544-e985-4d01-ae0c-9e8d053f6c61___GHLB2 Leaf 9071.JPG,Tomato_Late_blight,2,Tomato_healthy,0.9195288,False
+Tomato_Bacterial_spot/98abbc97-8dd1-4e70-af78-d88b0c26aaf9___GCREC_Bact.Sp 5922.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9403392,True
+Tomato_Late_blight/98f98ff0-04fc-4c8d-ae01-baf0e9a25572___GHLB Leaf 8.1 Day 6.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.5286102,True
+Tomato_Late_blight/29e99d11-44d0-4c6c-8183-c3e7be56ce58___RS_Late.B 7093.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.79352534,True
+Tomato_Early_blight/467b230b-ca0c-4f44-bf22-3e6e0454d51a___RS_Erly.B 9429.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.7448775,True
+Tomato_Bacterial_spot/e98fdfc0-1871-4b7d-b32a-35731e973289___GCREC_Bact.Sp 5834.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.980607,True
+Tomato_healthy/54bb7e75-5b69-4777-ad28-6a676e5fd46d___RS_HL 9631.JPG,Tomato_healthy,0,Tomato_healthy,0.997296,True
+Tomato_Late_blight/be8780d8-bf1c-44c6-af2c-5d67fa08d15f___RS_Late.B 4847.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.58946407,False
+Tomato_Early_blight/69ec13bc-48bf-4a91-adc0-acb4386979ac___RS_Erly.B 7732.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.844932,True
+Tomato_Late_blight/7e77fde0-ab1b-4256-be51-0f6eecf85007___RS_Late.B 6995.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.77790254,True
+Tomato_Late_blight/1c74783c-7863-4b1b-bf1a-6b3ef55b34b8___RS_Late.B 7094.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9973254,True
+Tomato_Bacterial_spot/d449e255-119a-44cb-844a-f187518e0fc2___GCREC_Bact.Sp 5701.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.96062106,True
+Tomato_Early_blight/3271f296-5264-4600-94e0-bde6cf1a2b42___RS_Erly.B 8300.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.7924097,False
+Tomato_Leaf_Mold/b0eb89d7-6d76-4799-acfc-37426aeb4589___Crnl_L.Mold 6719.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9591426,True
+Tomato_Bacterial_spot/0cc3364e-3f2a-42b2-aefe-5af03dad2966___GCREC_Bact.Sp 5580.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9734031,True
+Tomato_Bacterial_spot/e7b30707-3b57-49a1-ba38-ad82ca2c6cce___GCREC_Bact.Sp 5795.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.95086205,True
+Tomato_Early_blight/7b085d56-6867-4946-8208-5823afeba034___RS_Erly.B 7384.JPG,Tomato_Early_blight,1,Tomato_Bacterial_spot,0.9595321,False
+Tomato_Leaf_Mold/407519ba-54e6-4779-a886-8163cab06a04___Crnl_L.Mold 8807.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.98782635,True
+Tomato_Early_blight/ef68398c-ec92-4e44-961a-5ec1a29d3c28___RS_Erly.B 9620.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.8347143,True
+Tomato_healthy/591c89ff-a75f-4613-b06d-4f3fbf6c426c___GH_HL Leaf 435.JPG,Tomato_healthy,0,Tomato_healthy,0.9994802,True
+Tomato_healthy/1bfeed83-f119-46cd-b806-0e17e1dae136___RS_HL 0017.JPG,Tomato_healthy,0,Tomato_healthy,0.9887204,True
+Tomato_Leaf_Mold/0ee63bfa-d01f-4adb-b954-924f271a4d4f___Crnl_L.Mold 9022.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9989555,True
+Tomato_Late_blight/16064ecf-b035-4531-a6c0-d654dfccd6de___GHLB2 Leaf 8570.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9971038,True
+Tomato_Late_blight/a5d04e98-7eb0-487a-a000-34455226557f___RS_Late.B 6800.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.98637205,True
+Tomato_Early_blight/c0caae76-1327-4d16-95dd-138603f7573b___RS_Erly.B 8362.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.7177698,False
+Tomato_Late_blight/50dd04a3-18a8-4a34-bbba-5e6f851742f5___RS_Late.B 6141.JPG,Tomato_Late_blight,2,Tomato_healthy,0.4736777,False
+Tomato_Bacterial_spot/2a377230-f904-4646-95da-76e242051242___GCREC_Bact.Sp 3085.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.97540385,True
+Tomato_Leaf_Mold/794848b0-1482-46ae-b615-1382b41ea623___Crnl_L.Mold 6595.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9900702,True
+Tomato_healthy/8c5dbb8f-90fb-4ec7-9563-11e54723687e___GH_HL Leaf 190.JPG,Tomato_healthy,0,Tomato_healthy,0.99899334,True
+Tomato_healthy/d0d0643e-c7f1-4cf3-8399-cfd8a73d1af3___RS_HL 9650.JPG,Tomato_healthy,0,Tomato_healthy,0.9994643,True
+Tomato_Leaf_Mold/9846d408-3d13-490d-b9b1-4809f33c22ef___Crnl_L.Mold 6750.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9802196,True
+Tomato_Bacterial_spot/45e47cab-d129-497f-ba97-ab2a2ed62f5c___GCREC_Bact.Sp 2948.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.99447674,True
+Tomato_Early_blight/392df5d9-0383-4ce9-a6fa-17d09cdc3c62___RS_Erly.B 9497.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.76350886,True
+Tomato_healthy/cb4a744a-1f1d-4cb1-b2a4-f1e1a12426ca___RS_HL 9970.JPG,Tomato_healthy,0,Tomato_healthy,0.8917008,True
+Tomato_healthy/2da51b05-179d-4072-9ac9-f6985c7a494c___RS_HL 0444.JPG,Tomato_healthy,0,Tomato_healthy,0.9767734,True
+Tomato_Early_blight/150cfe75-133e-4e98-90cb-de96a8120c03___RS_Erly.B 9414.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.5108974,True
+Tomato_Late_blight/1c6b66db-9891-41cc-972f-a3521deee072___RS_Late.B 5589.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.96514016,False
+Tomato_Late_blight/4d9faab5-238d-42a1-ae87-5e3d0a38a3e2___RS_Late.B 5033.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.82916355,True
+Tomato_healthy/8a4dc6f9-2f54-4bdd-957f-d9fb709e1b26___GH_HL Leaf 302.1.JPG,Tomato_healthy,0,Tomato_healthy,0.99939835,True
+Tomato_Late_blight/9aaf4a7d-12ac-457a-a18c-1f7ea13065de___RS_Late.B 5179.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.8277065,False
+Tomato_Bacterial_spot/f1984cc1-26df-40dc-abf2-9bbd9b879b37___GCREC_Bact.Sp 6141.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9493506,True
+Tomato_healthy/42ae0091-fbfd-43e6-8a48-805051f770a0___RS_HL 0463.JPG,Tomato_healthy,0,Tomato_healthy,0.97885895,True
+Tomato_Leaf_Mold/63d32854-5b4d-44c6-9695-96e12812916e___Crnl_L.Mold 9076.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.75990885,True
+Tomato_healthy/7890f4dc-0c55-454b-ab23-3b25d3d973c4___GH_HL Leaf 366.1.JPG,Tomato_healthy,0,Tomato_healthy,0.99943686,True
+Tomato_Leaf_Mold/ec76173b-c354-4711-9bb7-b38dae1ea5b4___Crnl_L.Mold 9074.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.98080254,True
+Tomato_Bacterial_spot/486fec1f-c2fe-4aab-9e88-46ad54ebdbea___GCREC_Bact.Sp 5995.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.92786694,True
+Tomato_Late_blight/d373ae28-23fa-48ac-9745-7b9f405698d5___RS_Late.B 5391.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.598722,False
+Tomato_healthy/5c23afc6-7236-4f07-adcd-61b1f69e3fb2___RS_HL 9801.JPG,Tomato_healthy,0,Tomato_healthy,0.9996865,True
+Tomato_Early_blight/a98a655f-a2f5-44eb-a73b-edf25ca85921___RS_Erly.B 6351.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.6045007,True
+Tomato_Late_blight/2a49b85e-6b7a-4a55-82c3-f596ed09f82d___GHLB2 Leaf 133.1.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9333689,True
+Tomato_Early_blight/297feea8-4707-4d39-a6af-b1c0e3403935___RS_Erly.B 7816.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.94610864,True
+Tomato_Bacterial_spot/4ac4ef34-f2c2-4e08-a0d6-ad3d225159f5___GCREC_Bact.Sp 6177.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.8994865,True
+Tomato_Leaf_Mold/f989d3e8-e86b-4a15-80d7-22f6f7e0497a___Crnl_L.Mold 6818.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9726003,True
+Tomato_Early_blight/5fdc3c4f-b88a-4aef-8a56-87336f220ff4___RS_Erly.B 6376.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.90292114,True
+Tomato_Leaf_Mold/d22e79f4-23d0-4c0a-849b-c574b3f04232___Crnl_L.Mold 9084.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.6517706,True
+Tomato_Early_blight/8f92a1b1-c99e-48b4-8cd2-d0bd09bc6a6b___RS_Erly.B 9479.JPG,Tomato_Early_blight,1,Tomato_Bacterial_spot,0.7847149,False
+Tomato_Bacterial_spot/88b2d700-280b-40e3-a0d5-6118ba94d46e___GCREC_Bact.Sp 5871.JPG,Tomato_Bacterial_spot,4,Tomato_Early_blight,0.70001805,False
+Tomato_Leaf_Mold/b31c5c8a-aac0-4cad-af32-2b10e2fa64f6___Crnl_L.Mold 7053.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9938936,True
+Tomato_Leaf_Mold/17ea3930-bd36-4e02-8bef-91511c6a716e___Crnl_L.Mold 6862.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.8200532,True
+Tomato_Late_blight/f43df4fe-4544-4831-b9f9-a3c7b470b0e0___RS_Late.B 6801.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.97863144,True
+Tomato_Leaf_Mold/bffaf3b2-61c2-43e1-bfec-a3412b3d5ac8___Crnl_L.Mold 7026.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9928243,True
+Tomato_Late_blight/1b7d11ff-e94c-45cb-9ef2-6430f989e90e___GHLB2 Leaf 120.1.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.99724203,True
+Tomato_Early_blight/a007bf16-ab14-4d3c-99b1-0710882cbb17___RS_Erly.B 9388.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.6968097,True
+Tomato_healthy/0988fc05-ee41-4e17-9f28-fbdd03266ae6___RS_HL 9928.JPG,Tomato_healthy,0,Tomato_healthy,0.9971082,True
+Tomato_Leaf_Mold/8c42c67d-817e-420b-8b70-92b4a32c46bc___Crnl_L.Mold 6501.JPG,Tomato_Leaf_Mold,3,Tomato_Bacterial_spot,0.4209786,False
+Tomato_Bacterial_spot/edcbb73e-46f6-4798-bcdd-7c4477b6b9cf___GCREC_Bact.Sp 3214.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.945208,True
+Tomato_healthy/8d4a3b2d-bcef-4861-a0a0-c3cb0a1990ce___GH_HL Leaf 204.JPG,Tomato_healthy,0,Tomato_healthy,0.992914,True
+Tomato_Early_blight/3b0f2e65-0005-4b3a-b63c-4ec99b3b92e5___RS_Erly.B 8227.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.6070072,True
+Tomato_Early_blight/98f19e26-5889-4e8e-9175-8dbbaa3439ef___RS_Erly.B 6449.JPG,Tomato_Early_blight,1,Tomato_Leaf_Mold,0.57074225,False
+Tomato_healthy/6b53630d-c9df-4e67-a490-b1835772d9a0___GH_HL Leaf 450.2.JPG,Tomato_healthy,0,Tomato_healthy,0.9979514,True
+Tomato_Late_blight/beadaf43-1ab3-447b-b60a-d9c3cc8214ff___RS_Late.B 6293.JPG,Tomato_Late_blight,2,Tomato_Leaf_Mold,0.8529087,False
+Tomato_Late_blight/bf89b543-1d30-4648-8b4a-bb8d1f2f913a___GHLB2 Leaf 8606.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.953679,True
+Tomato_Leaf_Mold/91a2c537-6b7c-463a-b59e-0f8b3ea8865b___Crnl_L.Mold 6526.JPG,Tomato_Leaf_Mold,3,Tomato_Early_blight,0.46764088,False
+Tomato_Leaf_Mold/8d6e2d0b-672d-4737-8973-17a9f31517a8___Crnl_L.Mold 7070.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9966272,True
+Tomato_Leaf_Mold/f588d442-8eb5-439a-9c1a-cad5722ecc28___Crnl_L.Mold 7133.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9894292,True
+Tomato_Late_blight/d2b12108-4222-4653-85f2-9d59c5929c1e___RS_Late.B 6360.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.91078043,True
+Tomato_healthy/a6bd221d-9a81-4712-bfdb-9f529f422b37___RS_HL 0236.JPG,Tomato_healthy,0,Tomato_healthy,0.8466353,True
+Tomato_Early_blight/fe856320-407c-4390-9960-a6a539371182___RS_Erly.B 7624.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.7928478,True
+Tomato_Leaf_Mold/460faa12-8c7a-458b-a6a1-90c71cc73fad___Crnl_L.Mold 9102.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9984001,True
+Tomato_healthy/6e1abdb8-4020-48c9-9488-2d320e8d5a4d___RS_HL 0168.JPG,Tomato_healthy,0,Tomato_healthy,0.9982454,True
+Tomato_Leaf_Mold/538d20ab-b01e-4d55-ad39-b0fbeb3babbe___Crnl_L.Mold 7002.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.97789574,True
+Tomato_Late_blight/9a298d6c-723d-483c-bec6-c64f99065677___RS_Late.B 6956.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.87404656,True
+Tomato_Late_blight/dfc45d56-7ecb-46a5-b9da-9297df393f7b___RS_Late.B 6928.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.5812346,True
+Tomato_Bacterial_spot/81d0b3fa-4d42-424d-b3f2-3acd69f0db13___GCREC_Bact.Sp 6318.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.95375526,True
+Tomato_Leaf_Mold/937ddfca-ced9-419b-b25d-314ec99847f7___Crnl_L.Mold 8726.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.8764614,True
+Tomato_Bacterial_spot/10f0b483-25a2-4c13-9054-754e9fe08d18___GCREC_Bact.Sp 3812.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.99780476,True
+Tomato_Bacterial_spot/793c4393-0e98-4de2-bbb2-eb0c8412a959___GCREC_Bact.Sp 5621.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9914198,True
+Tomato_Late_blight/031ab3ab-02f4-4397-9886-54345461580d___RS_Late.B 6654.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.92828315,True
+Tomato_Early_blight/26b721c9-94fd-4e19-bb7e-521238eb8a1b___RS_Erly.B 9380.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.9016395,False
+Tomato_healthy/c58defb7-5515-4b89-896f-13039c13051f___GH_HL Leaf 372.1.JPG,Tomato_healthy,0,Tomato_healthy,0.99803454,True
+Tomato_Early_blight/3069555f-45e9-4208-bc5e-015ce47e34e2___RS_Erly.B 7663.JPG,Tomato_Early_blight,1,Tomato_Leaf_Mold,0.6394924,False
+Tomato_Early_blight/51708fa7-4619-4957-bfc6-8e422ee23a99___RS_Erly.B 7630.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.96516556,True
+Tomato_healthy/eb1f4546-7ba3-4d36-82d2-d5ad42671ae2___RS_HL 9814.JPG,Tomato_healthy,0,Tomato_healthy,0.991359,True
+Tomato_Bacterial_spot/4436edf6-8c6d-4cc5-b973-1f0afd218e86___GCREC_Bact.Sp 6271.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9583354,True
+Tomato_Early_blight/4490b039-427d-414c-836d-a1fda6c1ad49___RS_Erly.B 8369.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.94766325,True
+Tomato_Leaf_Mold/b97c1d3f-45b5-4057-aa68-1c92e65b06dc___Crnl_L.Mold 8696.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99642813,True
+Tomato_Leaf_Mold/47368e87-9afe-4943-8929-e5e8a652bf60___Crnl_L.Mold 8950.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9997876,True
+Tomato_healthy/16927ddc-fc87-4ff2-b450-1edc2b4c6191___RS_HL 0051.JPG,Tomato_healthy,0,Tomato_healthy,0.887363,True
+Tomato_healthy/71867583-027b-4304-8854-7b88efaf280b___RS_HL 9920.JPG,Tomato_healthy,0,Tomato_healthy,0.9523136,True
+Tomato_Early_blight/5d45c117-439e-454a-bc77-93a27ce98761___RS_Erly.B 7546.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.85863024,True
+Tomato_Bacterial_spot/55339b80-574d-4379-bc85-35558fcc0bea___UF.GRC_BS_Lab Leaf 0554.JPG,Tomato_Bacterial_spot,4,Tomato_Late_blight,0.5800185,False
+Tomato_Bacterial_spot/2731979e-e02a-4736-8475-4542fcc6f596___UF.GRC_BS_Lab Leaf 0227.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.98620033,True
+Tomato_Early_blight/5ac54e63-40a4-4651-a900-fd3ab4d32bae___RS_Erly.B 7727.JPG,Tomato_Early_blight,1,Tomato_Leaf_Mold,0.76706725,False
+Tomato_Early_blight/f62b2695-c850-47d4-9e42-e35e5596e729___RS_Erly.B 7777.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.8550761,False
+Tomato_Bacterial_spot/3c968c0e-9824-455f-bbf8-b4acf133508e___GCREC_Bact.Sp 3011.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.78376704,True
+Tomato_Leaf_Mold/022a4dfb-84cc-45cb-81c5-a620817e31cb___Crnl_L.Mold 6926.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9530499,True
+Tomato_healthy/1a393116-cbd1-4e3f-acfc-563e96ae1e80___RS_HL 0268.JPG,Tomato_healthy,0,Tomato_healthy,0.83223677,True
+Tomato_Early_blight/d452210c-ee07-4a6e-a0e0-15676dafacb1___RS_Erly.B 7419.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.4739224,True
+Tomato_Early_blight/79c34498-d83f-4afd-a339-074b4dbb20bd___RS_Erly.B 8450.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.91024846,True
+Tomato_Leaf_Mold/bf120193-9127-4e56-8031-9b0cded8a75d___Crnl_L.Mold 9004.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9999042,True
+Tomato_Early_blight/d3b3f060-60d3-4b72-8797-8406fcf2815f___RS_Erly.B 7607.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.7913483,True
+Tomato_Leaf_Mold/0f1ce7cf-da72-4ddb-9bdb-a1af620537c6___Crnl_L.Mold 6840.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9939383,True
+Tomato_Bacterial_spot/8eea255c-3cb6-49bf-938c-da2b85dfe40a___UF.GRC_BS_Lab Leaf 0294.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.5672243,True
+Tomato_healthy/eb2c5c0c-2422-4c38-af0a-624e97f9f981___RS_HL 0603.JPG,Tomato_healthy,0,Tomato_healthy,0.9850405,True
+Tomato_healthy/6d4285ef-e3f2-4cd3-a873-efdd989cf1cb___RS_HL 0182.JPG,Tomato_healthy,0,Tomato_healthy,0.89596295,True
+Tomato_Late_blight/dce856b2-1c63-4305-97ab-5ab443f462bf___RS_Late.B 6099.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.52372193,False
+Tomato_Late_blight/d42db004-b176-449f-9290-061fb92738d2___RS_Late.B 7139.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.90588045,True
+Tomato_Late_blight/601bb6d6-6959-40d1-b0f4-5f7030172995___GHLB2 Leaf 126.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.99448776,True
+Tomato_Late_blight/18568211-18d7-453f-84a4-d22e2088ec33___RS_Late.B 5239.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.79352295,True
+Tomato_Early_blight/36c17d6d-9e00-4e7c-bf14-eaadb64b508d___RS_Erly.B 7641.JPG,Tomato_Early_blight,1,Tomato_Bacterial_spot,0.7694766,False
+Tomato_Early_blight/f398656e-d695-4cea-89d8-13490de9264c___RS_Erly.B 7592.JPG,Tomato_Early_blight,1,Tomato_Leaf_Mold,0.92408866,False
+Tomato_Late_blight/d886ffed-a35b-4954-9066-b708c34fc998___GHLB2 Leaf 82.1.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9927722,True
+Tomato_Leaf_Mold/9d23d930-a755-4554-bb5d-093d0055b65d___Crnl_L.Mold 9090.JPG,Tomato_Leaf_Mold,3,Tomato_healthy,0.43080628,False
+Tomato_Leaf_Mold/aaac4e3a-fe49-435a-a933-e7099b3456a5___Crnl_L.Mold 9093.JPG,Tomato_Leaf_Mold,3,Tomato_Early_blight,0.73220396,False
+Tomato_Late_blight/0cdd34fe-e8f2-41a7-b634-475338233f87___GHLB2 Leaf 8801.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9780748,True
+Tomato_Early_blight/1f4c9f8a-5672-4e47-84dd-55f85f953174___RS_Erly.B 7582.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.93710476,True
+Tomato_healthy/d41e126d-fc0d-4224-96e0-2d5ae074e4ac___RS_HL 9933.JPG,Tomato_healthy,0,Tomato_healthy,0.9980263,True
+Tomato_Early_blight/68f9f67d-e84a-4551-871c-7b56aab9defc___RS_Erly.B 7693.JPG,Tomato_Early_blight,1,Tomato_healthy,0.6214615,False
+Tomato_healthy/714b5b2d-482e-4276-8a06-ecf6a18bdb52___RS_HL 9941.JPG,Tomato_healthy,0,Tomato_healthy,0.9990792,True
+Tomato_healthy/0a86ddc0-4950-4efc-9260-0f16d4db046b___RS_HL 0469.JPG,Tomato_healthy,0,Tomato_healthy,0.9941256,True
+Tomato_Leaf_Mold/167ce5ce-ef32-4544-a7aa-d05d315ef61a___Crnl_L.Mold 9113.JPG,Tomato_Leaf_Mold,3,Tomato_Late_blight,0.96506655,False
+Tomato_Early_blight/546af1f7-3d4f-4024-88b1-f981fea7f2dd___RS_Erly.B 9455.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.89778376,True
+Tomato_Late_blight/d8b0ded7-7d30-4b52-acea-d1a3ca70a392___RS_Late.B 6096.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.69478244,True
+Tomato_Early_blight/d3ebceea-8021-4168-85a4-27ef48cdaacb___RS_Erly.B 7857.JPG,Tomato_Early_blight,1,Tomato_Leaf_Mold,0.6712106,False
+Tomato_Bacterial_spot/f44c58b0-4d48-4b8b-b812-e472d2737998___GCREC_Bact.Sp 5553.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9656283,True
+Tomato_Bacterial_spot/4a5a1551-dd56-4fce-971c-4d7166afaff1___GCREC_Bact.Sp 3113.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9740252,True
+Tomato_Leaf_Mold/f2da011d-7004-40de-ba61-9e9fe12ad6b0___Crnl_L.Mold 7143.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.98004043,True
+Tomato_healthy/8accf0ce-a43d-449c-86fb-e327fb6ab2c9___GH_HL Leaf 241.JPG,Tomato_healthy,0,Tomato_healthy,0.9995705,True
+Tomato_healthy/50653809-a548-4b7e-898d-6e3dac85ac8d___RS_HL 9855.JPG,Tomato_healthy,0,Tomato_healthy,0.5173294,True
+Tomato_Late_blight/7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7.jpg,Tomato_Late_blight,2,Tomato_Late_blight,0.99992186,True
+Tomato_healthy/271be296-4c0b-4817-a44b-cc9611d3f519___GH_HL Leaf 182.1.JPG,Tomato_healthy,0,Tomato_healthy,0.99949056,True
+Tomato_Late_blight/fa98c595-ea2f-415d-90de-25c0a3926eee___RS_Late.B 6993.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.63647825,True
+Tomato_Bacterial_spot/9cb02c7d-6a6e-4e30-bce8-ea903db9b475___GCREC_Bact.Sp 5641.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9729498,True
+Tomato_Early_blight/141bbdef-ba38-49ed-9d6f-fe8d9de38e6f___RS_Erly.B 9579.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.9651367,True
+Tomato_Leaf_Mold/6a43fd4b-43d1-4539-8878-ad72d770b74f___Crnl_L.Mold 9039.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9973931,True
+Tomato_Early_blight/89e0c6b5-8812-4a16-92eb-e63401b50051___RS_Erly.B 9589.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.8871622,True
+Tomato_Leaf_Mold/90f6e771-bfb7-4e54-aa8c-6e295af7dc6e___Crnl_L.Mold 8761.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.50709075,True
+Tomato_Late_blight/2077acd5-80d2-421f-8641-308048d44651___GHLB2 Leaf 8678.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.88290346,True
+Tomato_Bacterial_spot/61a05330-1086-4891-8482-3f422ff59492___GCREC_Bact.Sp 3429.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9894698,True
+Tomato_Bacterial_spot/c9f48a07-6bc4-4a62-a817-3b99a64160cc___UF.GRC_BS_Lab Leaf 1208.JPG,Tomato_Bacterial_spot,4,Tomato_healthy,0.8715017,False
+Tomato_Early_blight/239213d8-587b-48a8-bfdf-03157ba8e95d___RS_Erly.B 6385.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.96431285,True
+Tomato_Bacterial_spot/f2cfc53d-a165-47d5-a9ac-6877e52a97b6___GCREC_Bact.Sp 3804.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.96095645,True
+Tomato_healthy/ba541656-6ae6-4471-8c17-7144e4c23edf___RS_HL 9947.JPG,Tomato_healthy,0,Tomato_healthy,0.997313,True
+Tomato_healthy/13e0d497-f5fc-4fb9-9e9a-cb77bc330730___RS_HL 0397.JPG,Tomato_healthy,0,Tomato_healthy,0.9964584,True
+Tomato_Bacterial_spot/5c973c59-c8da-4a3a-bd99-a645d0f83936___GCREC_Bact.Sp 6362.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9667826,True
+Tomato_Leaf_Mold/c3b836a9-0621-4979-a4a0-b57b9488cbeb___Crnl_L.Mold 8846.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99864423,True
+Tomato_Leaf_Mold/9f8e73b0-a649-44db-b77c-547a8ef7912d___Crnl_L.Mold 9171.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99948746,True
+Tomato_Leaf_Mold/bfa39ac2-512e-4699-b8e1-7baabffb0b97___Crnl_L.Mold 8771.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.8793911,True
+Tomato_Bacterial_spot/faabf678-fe6e-48a5-b864-57f83ac33aa2___GCREC_Bact.Sp 3187.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.99207014,True
+Tomato_Bacterial_spot/53cc4f3b-8abd-499a-ad1b-898beb5936a3___GCREC_Bact.Sp 5874.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9962791,True
+Tomato_Late_blight/a9e5eb70-1dc4-44ec-927a-4ac745c1ff31___RS_Late.B 5035.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.7687975,True
+Tomato_Bacterial_spot/6c9e726b-8574-4f84-81c3-271e093f8bf2___GCREC_Bact.Sp 3350.JPG,Tomato_Bacterial_spot,4,Tomato_Early_blight,0.43295476,False
+Tomato_Bacterial_spot/0c9b7dd9-a0c7-4b6e-bb4d-b2e3cab833d0___GCREC_Bact.Sp 6081.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.49774358,True
+Tomato_healthy/956eb0b5-8dae-4315-9cea-320dc594b864___RS_HL 0221.JPG,Tomato_healthy,0,Tomato_healthy,0.9395512,True
+Tomato_Bacterial_spot/b6693ee1-8345-4796-9b9b-33d968e1e66f___GCREC_Bact.Sp 3097.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9921763,True
+Tomato_Bacterial_spot/c2d782db-6a77-4ab8-bd0a-c0ca6c2bec7e___GCREC_Bact.Sp 3263.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.93233573,True
+Tomato_Late_blight/9029b453-c7c1-4c80-9033-72b650866290___GHLB2 Leaf 160.1.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.99171776,True
+Tomato_Early_blight/93dd10f7-791e-4c52-a8d0-f9196cafaecb___RS_Erly.B 8284.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.6434904,False
+Tomato_Leaf_Mold/738b2359-39ac-465b-8d8e-43dc842a280e___Crnl_L.Mold 6535.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.6310595,True
+Tomato_Late_blight/eab0e4c2-79de-42ef-b9fd-19b4cb03d0e9___RS_Late.B 6979.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.95058453,True
+Tomato_Early_blight/ca7d6cd9-e24e-43af-82c2-742a922ce421___RS_Erly.B 9488.JPG,Tomato_Early_blight,1,Tomato_Bacterial_spot,0.55849993,False
+Tomato_Bacterial_spot/d91864c6-22e4-4dea-b10f-e64061a300a3___GCREC_Bact.Sp 3572.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9690431,True
+Tomato_Leaf_Mold/9ced7d05-026f-45ab-986e-6af8eb2a13d6___Crnl_L.Mold 8995.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.999704,True
+Tomato_Leaf_Mold/0857ce1f-5347-493a-acd9-77b698950b45___Crnl_L.Mold 6748.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9829398,True
+Tomato_healthy/c268e18a-6916-43ef-8aa8-f68b1429b7dc___GH_HL Leaf 236.2.JPG,Tomato_healthy,0,Tomato_healthy,0.9995624,True
+Tomato_Bacterial_spot/1eca836c-208e-40a8-a69c-fb7232d92368___GCREC_Bact.Sp 6110.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.96300745,True
+Tomato_Late_blight/42925d12-5478-4773-acdd-88b8361f8bb9___RS_Late.B 5458.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.5025469,True
+Tomato_Bacterial_spot/8f5439b2-dd11-4410-a0c0-1446c13c30b5___GCREC_Bact.Sp 3448.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9104418,True
+Tomato_Late_blight/48246fa8-29ce-4ae2-abc3-586440295cf0___RS_Late.B 5459.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.9461095,True
+Tomato_Early_blight/bef16984-17c5-4796-9496-85808dfa3a56___RS_Erly.B 9405.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.8220357,True
+Tomato_Late_blight/6c9c73fa-5c8d-40ce-9221-a600908bff33___RS_Late.B 4893.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.7769369,True
+Tomato_healthy/93c9da62-19ca-4e90-b355-0dc71ff5cc4b___RS_HL 9752.JPG,Tomato_healthy,0,Tomato_healthy,0.9881267,True
+Tomato_Bacterial_spot/c9251133-b2c8-4227-9c29-f14857e83be1___GCREC_Bact.Sp 5692.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9881628,True
+Tomato_Early_blight/389a93c4-2ea1-4df5-94c6-01ea8ad856db___RS_Erly.B 7720.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.43819356,True
+Tomato_Bacterial_spot/3bed8328-2a32-49f3-b887-a083b1757259___GCREC_Bact.Sp 6171.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.93805534,True
+Tomato_Late_blight/40bca58c-a09e-429b-a0b3-03fce3ea88e5___GHLB2 Leaf 9113.JPG,Tomato_Late_blight,2,Tomato_Late_blight,0.98234355,True
+Tomato_healthy/6b9b1ad6-3e75-4378-ad97-7dc9b8fa084e___GH_HL Leaf 179.1.JPG,Tomato_healthy,0,Tomato_healthy,0.9993162,True
+Tomato_Early_blight/22b8de0e-636d-4407-a270-ef3614c33227___RS_Erly.B 8257.JPG,Tomato_Early_blight,1,Tomato_Late_blight,0.5486509,False
+Tomato_Late_blight/e03114a0-8053-460a-b653-eef873b1c531___RS_Late.B 5532.JPG,Tomato_Late_blight,2,Tomato_Leaf_Mold,0.98448604,False
+Tomato_Bacterial_spot/ed69ffba-2381-4d89-9c08-503b45779f1b___UF.GRC_BS_Lab Leaf 0302.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.9601837,True
+Tomato_Early_blight/8a13da5b-4bc2-485a-962d-df8c6634ea00___RS_Erly.B 7519.JPG,Tomato_Early_blight,1,Tomato_Bacterial_spot,0.94086546,False
+Tomato_healthy/ec59e000-1ee0-4998-a68f-abbfa6f6d009___RS_HL 0226.JPG,Tomato_healthy,0,Tomato_healthy,0.9807682,True
+Tomato_Bacterial_spot/c772de4c-5514-4b6f-b136-bf73532c7332___GCREC_Bact.Sp 3571.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.8048698,True
+Tomato_healthy/1ca23194-53c1-44a9-973a-39aa073f4a33___RS_HL 0058.JPG,Tomato_healthy,0,Tomato_healthy,0.9980204,True
+Tomato_Late_blight/25a83fb3-e27a-419c-a9db-652fae319fcd___RS_Late.B 6191.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.6109563,False
+Tomato_Late_blight/a01034d4-69a1-4a6f-b05a-9561acba2ff2___GHLB2 Leaf 9057.JPG,Tomato_Late_blight,2,Tomato_Leaf_Mold,0.49851257,False
+Tomato_Late_blight/d9459215-359a-48d1-babe-be3b7b11cd9d___GHLB Leaf 2 Day 12.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.9810048,False
+Tomato_Late_blight/aa2b76f2-a7e8-443c-81eb-20c00c0fd488___GHLB_PS Leaf 39.1 Day 16.jpg,Tomato_Late_blight,2,Tomato_Late_blight,0.996835,True
+Tomato_Late_blight/f37f0878-31f2-402b-81c6-dd1af6e15899___RS_Late.B 5222.JPG,Tomato_Late_blight,2,Tomato_Early_blight,0.5162165,False
+Tomato_Leaf_Mold/cb31d287-ef55-42a7-9ebe-df5796ad7d41___Crnl_L.Mold 9060.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.99988353,True
+Tomato_Early_blight/48749ece-911d-440f-873d-475e58132969___RS_Erly.B 7479.JPG,Tomato_Early_blight,1,Tomato_Early_blight,0.99114674,True
+Tomato_Leaf_Mold/2d6f98ac-7545-4ea6-97f7-51374d16adc2___Crnl_L.Mold 7005.JPG,Tomato_Leaf_Mold,3,Tomato_Early_blight,0.55240786,False
+Tomato_Bacterial_spot/f15cec7f-fe4f-4837-a3f0-1ec2bceaa10d___UF.GRC_BS_Lab Leaf 0226.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.98335224,True
+Tomato_Bacterial_spot/8d4ca679-c45e-4d6a-934c-2dc64684c53e___GCREC_Bact.Sp 3774.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.8866899,True
+Tomato_Bacterial_spot/c532396b-5641-4fd3-8c91-a0af394b8b93___GCREC_Bact.Sp 6169.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.8716089,True
+Tomato_Leaf_Mold/0e5b669e-8534-45ab-a3c0-63134e685069___Crnl_L.Mold 7144.JPG,Tomato_Leaf_Mold,3,Tomato_Leaf_Mold,0.9992252,True
+Tomato_Bacterial_spot/16119e7a-b9d7-4004-9a07-45b6c9f6d480___UF.GRC_BS_Lab Leaf 9172.JPG,Tomato_Bacterial_spot,4,Tomato_Bacterial_spot,0.999777,True
