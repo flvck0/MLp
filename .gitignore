@@ -10,3 +10,6 @@ venv/
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
+
+# Borradores de trabajo (no son entregables)
+preguntas_defensa_borrador.md
