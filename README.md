@@ -93,6 +93,18 @@ El notebook sigue el orden de trabajo pedido para la evaluación:
 | 7 | Errores | Confianza, aciertos/errores, clases confundidas, limitaciones del MLP en imágenes |
 | 8 | Conclusiones | Resumen, decisiones de diseño, fortalezas, limitaciones, mejoras futuras |
 
+## Evaluación Parcial 2: CNN
+
+La segunda evaluación reutiliza la misma variante de PlantVillage y agrega una Red Neuronal Convolucional para comparar objetivamente contra el MLP.
+
+- Informe técnico EP2: [`informe_ep2.md`](informe_ep2.md)
+- Notebook CNN: [`notebooks/plantvillage_cnn.ipynb`](notebooks/plantvillage_cnn.ipynb)
+- Comparación generada: `models/comparacion_mlp_cnn.csv`
+- Feature Maps: `images/10_feature_maps.png`
+- Mapas de activación por clase: `images/11_mapas_activacion_por_clase.png`
+
+La CNN conserva el formato matricial `(64, 64, 3)`, utiliza tres bloques convolucionales con pooling, GlobalAveragePooling, una capa densa y salida Softmax de cinco clases. El notebook reentrena el MLP bajo las mismas particiones para que la comparación sea reproducible.
+
 ## Licencia de los datos
 
 PlantVillage es un dataset público para investigación. Ver la página de Kaggle
