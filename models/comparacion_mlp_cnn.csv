@@ -1,0 +1,14 @@
+métrica,MLP,CNN
+Accuracy (prueba),"0,8233","0,9100"
+Precision macro,"0,8176","0,9172"
+Recall macro,"0,8233","0,9100"
+F1-score macro,"0,8192","0,9105"
+Recall de clases enfermas,"0,7792","0,8875"
+Enfermas clasificadas como sanas (de 240),6,1
+Accuracy entrenamiento (inferencia),"0,9714","0,9714"
+Brecha de generalización,"0,1481","0,0614"
+Parámetros totales,3.181.061,1.143.493
+Parámetros por imagen de entrenamiento,2.272,817
+Épocas ejecutadas (EP1 / EP2),60,36
+"Tiempo de entrenamiento, mismo hardware (s)","15,1","31,6"
+Tiempo por época (s),"0,26","0,88"

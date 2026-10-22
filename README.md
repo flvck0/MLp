@@ -1,111 +1,115 @@
-# PlantVillage MLP
+# PlantVillage: MLP y CNN
 
-Clasificación de enfermedades en hojas de tomate mediante un Perceptrón
-Multicapa (MLP), implementado en Keras/TensorFlow. Proyecto para la Evaluación
-Parcial N°1 de TLY1102 — Técnicas Avanzadas de Machine Learning I.
+Clasificación de enfermedades en hojas de tomate con Keras/TensorFlow. Este
+repositorio reúne nuestras dos evaluaciones parciales de TLY1102 — Técnicas
+Avanzadas de Machine Learning I:
 
-**Resultado:** 82,33 % de accuracy en prueba (5 clases balanceadas, línea base
-al azar 20 %). Detalle completo de métricas, gráficos e interpretación en
-[`informe_tecnico.md`](informe_tecnico.md) y en el notebook.
+- **EP1:** un Perceptrón Multicapa (MLP) como modelo base.
+- **EP2:** una Red Neuronal Convolucional (CNN) para el mismo problema, con los mismos datos, comparada con el MLP.
+
+## Resultados
+
+| Modelo | Accuracy (prueba) | F1 macro | Parámetros | Informe |
+|---|---|---|---|---|
+| MLP (EP1) | 82,33 % | 81,92 % | 3.181.061 | [`informe_tecnico.md`](informe_tecnico.md) |
+| CNN (EP2) | 91,00 % | 91,05 % | 1.143.493 | [`informe_ep2.md`](informe_ep2.md) |
+
+Las cinco clases están balanceadas, así que la línea base al azar es 20 %. La
+diferencia entre los dos modelos es estadísticamente significativa (prueba de
+McNemar, p = 0,0002).
 
 ## Estructura del proyecto
 
 ```text
 MLp/
-├── README.md                          este archivo
-├── informe_tecnico.md                 informe técnico (problema, KPIs, EDA, CRISP-DM)
-├── preguntas_defensa_borrador.md      borrador de apoyo para la defensa (documento aparte, en progreso)
+├── README.md                        este archivo
+├── informe_tecnico.md               informe técnico de la EP1 (MLP)
+├── informe_ep2.md                   informe técnico de la EP2 (CNN vs MLP)
 ├── notebooks/
-│   └── plantvillage_mlp.ipynb         notebook principal, ejecutable de punta a punta
+│   ├── plantvillage_mlp.ipynb       notebook de la EP1
+│   └── plantvillage_cnn.ipynb       notebook de la EP2 (guardado con salidas)
 ├── data/
-│   └── PlantVillage/                  dataset (NO se sube al repo, ver más abajo)
-├── images/                            figuras generadas por el notebook (EDA, curvas, matriz de confusión)
-└── models/                            modelo entrenado (.keras) y CSV de métricas/particiones
+│   └── PlantVillage/                dataset (no se sube al repo, ver más abajo)
+├── images/                          figuras: las de la EP1 y las de la EP2 (prefijo cnn_)
+└── models/                          modelos .keras, particiones y métricas (EP2 con sufijo _cnn)
 ```
 
-## Entregables de la evaluación
+## Entregables
 
-| Entregable | Ubicación |
-|---|---|
-| Informe técnico (.md) | [`informe_tecnico.md`](informe_tecnico.md) |
-| Notebook (.ipynb) | [`notebooks/plantvillage_mlp.ipynb`](notebooks/plantvillage_mlp.ipynb) |
-| Dataset y archivos complementarios | `data/` (instrucciones de descarga abajo) |
-| Carpeta organizada | esta misma estructura |
+| Entregable | EP1 | EP2 |
+|---|---|---|
+| Informe técnico (.md) | [`informe_tecnico.md`](informe_tecnico.md) | [`informe_ep2.md`](informe_ep2.md) |
+| Notebook (.ipynb) | [`notebooks/plantvillage_mlp.ipynb`](notebooks/plantvillage_mlp.ipynb) | [`notebooks/plantvillage_cnn.ipynb`](notebooks/plantvillage_cnn.ipynb) |
+| Modelo y métricas | `models/mlp_plantvillage.keras`, `models/*.csv` | `models/cnn_plantvillage.keras`, `models/*_cnn.csv` |
+| Figuras | `images/0*.png` | `images/cnn_*.png` |
 
 ## Variante del grupo
 
-- **5 clases** de tomate: `Tomato_healthy`, `Tomato_Early_blight`,
-  `Tomato_Late_blight`, `Tomato_Leaf_Mold`, `Tomato_Bacterial_spot`.
-- **400 imágenes por clase** como máximo (2.000 en total), muestreadas al azar.
-- **Semilla 1102** en todo el flujo: muestreo, particiones e inicialización.
-- **Resolución 64 × 64 px** de entrada.
-- **Partición estratificada 70 / 15 / 15**.
+Es la misma en las dos evaluaciones:
+
+- 5 clases de tomate: `Tomato_healthy`, `Tomato_Early_blight`, `Tomato_Late_blight`, `Tomato_Leaf_Mold` y `Tomato_Bacterial_spot`.
+- 400 imágenes por clase (2.000 en total), muestreadas al azar.
+- Semilla 1102 en todo el flujo.
+- Imágenes de 64 × 64 px.
+- Partición estratificada 70 / 15 / 15.
+
+La EP2 no vuelve a muestrear: lee la partición exacta que guardó la EP1
+(`models/particion_*.csv`), así que los dos modelos se evalúan sobre las mismas
+300 imágenes de prueba.
 
 ## Dataset
 
-El dataset no se incluye en el repositorio por su tamaño (`data/` está en
-`.gitignore`). Es el dataset **PlantVillage** de Kaggle:
+El dataset no está en el repositorio por su tamaño (`data/` está en el
+`.gitignore`). Es **PlantVillage**, de Kaggle:
 [`emmarex/plantdisease`](https://www.kaggle.com/datasets/emmarex/plantdisease).
+Los notebooks solo usan las cinco carpetas de tomate de la variante.
 
-El notebook solo necesita las cinco carpetas de tomate de la variante; no hace
-falta el dataset completo (38 clases).
+## Cómo ejecutar el notebook de la EP2
 
-### Ejecutar en Google Colab (recomendado)
+### En local
 
-1. Descarga `PlantVillage.zip` desde Kaggle.
-2. Súbelo a tu Google Drive en esta ruta exacta:
-   ```text
-   Mi unidad/PlantVillage_MLP/PlantVillage.zip
-   ```
-3. Abre `notebooks/plantvillage_mlp.ipynb` en Colab y ejecuta todas las celdas
-   (`Entorno de ejecución → Ejecutar todas`). La primera celda monta Drive
-   (pide autorización una vez) y el notebook descomprime automáticamente solo
-   las 5 clases de la variante.
-4. Las figuras y el modelo se guardan en
-   `Mi unidad/PlantVillage_MLP/images/` y `.../models/` para no perderse al
-   cerrar la sesión.
-
-### Ejecutar en local
-
-1. Descarga `PlantVillage.zip` y colócalo en `data/raw/PlantVillage.zip`, o
-   descomprímelo directamente en `data/PlantVillage/<clase>/*.jpg`.
+1. Clona el repositorio y deja el dataset de una de estas dos formas:
+   - el zip en `data/raw/PlantVillage.zip` (el notebook extrae solo las 5 clases), o
+   - las carpetas ya descomprimidas en `data/PlantVillage/<clase>/*.jpg`.
 2. Instala las dependencias:
    ```bash
-   pip install tensorflow scikit-learn seaborn pandas matplotlib pillow jupyter
+   pip install tensorflow scikit-learn scipy seaborn pandas matplotlib pillow jupyter
    ```
-3. Ejecuta el notebook con Jupyter o `jupyter nbconvert --execute`.
+3. Abre `notebooks/plantvillage_cnn.ipynb` y ejecuta todas las celdas. Las rutas se detectan solas y los resultados de la EP1 se leen desde `models/`.
 
-El notebook detecta automáticamente si corre en Colab o en local y ajusta las
-rutas — no requiere editar ninguna ruta a mano.
+En un equipo sin GPU la ejecución completa toma unos 4 minutos.
 
-## Flujo del notebook
+### En Google Colab
 
-El notebook sigue el orden de trabajo pedido para la evaluación:
+1. Opcional: activa la GPU en `Entorno de ejecución → Cambiar tipo de entorno de ejecución → T4 GPU`.
+2. Sube `PlantVillage.zip` al panel de archivos de la sesión.
+3. Ejecuta todas las celdas (`Entorno de ejecución → Ejecutar todas`). El notebook clona este repositorio para obtener los resultados de la EP1. Si no hay conexión, puedes subir también el zip del repositorio (`MLp-main.zip`).
+
+Las figuras y los modelos quedan en `images/` y `models/` dentro de la sesión.
+Descárgalos antes de cerrarla.
+
+### Notebook de la EP1
+
+Las instrucciones originales siguen siendo válidas: en Colab se lee
+`Mi unidad/PlantVillage_MLP/PlantVillage.zip` desde Google Drive, y en local el
+dataset va en `data/`.
+
+## Contenido del notebook de la EP2
 
 | # | Sección | Contenido |
-|---|---------|-----------|
-| 1 | Problema | Problema de negocio, objetivos, KPIs, CRISP-DM, consideraciones éticas |
-| 2 | Datos | Inventario, variante, distribución, calidad, EDA visual, color por clase |
-| 3 | Preprocesamiento | Partición estratificada, normalización, verificación |
-| 4 | MLP | Arquitectura justificada capa por capa, conteo de parámetros |
-| 5 | Entrenamiento | Curvas de aprendizaje, diagnóstico, barrido de arquitecturas/optimizadores/learning rate |
-| 6 | Evaluación | Accuracy, Precision, Recall, F1, matriz de confusión, cumplimiento de KPIs |
-| 7 | Errores | Confianza, aciertos/errores, clases confundidas, limitaciones del MLP en imágenes |
-| 8 | Conclusiones | Resumen, decisiones de diseño, fortalezas, limitaciones, mejoras futuras |
-
-## Evaluación Parcial 2: CNN
-
-La segunda evaluación reutiliza la misma variante de PlantVillage y agrega una Red Neuronal Convolucional para comparar objetivamente contra el MLP.
-
-- Informe técnico EP2: [`informe_ep2.md`](informe_ep2.md)
-- Notebook CNN: [`notebooks/plantvillage_cnn.ipynb`](notebooks/plantvillage_cnn.ipynb)
-- Comparación generada: `models/comparacion_mlp_cnn.csv`
-- Feature Maps: `images/10_feature_maps.png`
-- Mapas de activación por clase: `images/11_mapas_activacion_por_clase.png`
-
-La CNN conserva el formato matricial `(64, 64, 3)`, utiliza tres bloques convolucionales con pooling, GlobalAveragePooling, una capa densa y salida Softmax de cinco clases. El notebook reentrena el MLP bajo las mismas particiones para que la comparación sea reproducible.
+|---|---|---|
+| 1 | Problema | Continuidad con la EP1, problema de negocio, objetivos, KPIs, CRISP-DM, ética |
+| 2 | Datos y EDA | Variante, partición de la EP1, balance, calidad, ejemplos, color por clase |
+| 3 | Preparación | Tensores 64×64×3 normalizados, aumento de datos |
+| 4 | Diseño de la CNN | Arquitectura justificada, parámetros, campo receptivo |
+| 5 | Entrenamiento | Curvas de aprendizaje y prueba de cinco configuraciones |
+| 6 | Evaluación | Accuracy, Precision, Recall, F1, matriz de confusión, KPIs |
+| 7 | MLP vs CNN | Tabla y gráficos comparativos, tiempo en el mismo equipo, prueba de McNemar |
+| 8 | Feature maps | Filtros, feature maps por capa y Grad-CAM por clase |
+| 9 | Errores | Confianza, aciertos, errores con Grad-CAM, sesgo del fondo, hipótesis |
+| 10 | Conclusiones | Diferencias, ventajas, limitaciones y mejoras por regularización |
 
 ## Licencia de los datos
 
-PlantVillage es un dataset público para investigación. Ver la página de Kaggle
-para el detalle de licencia.
+PlantVillage es un dataset público para investigación. El detalle de la licencia
+está en la página de Kaggle.
