@@ -109,7 +109,3 @@ dataset va en `data/`.
 | 9 | Errores | Confianza, aciertos, errores con Grad-CAM, sesgo del fondo, hipótesis |
 | 10 | Conclusiones | Diferencias, ventajas, limitaciones y mejoras por regularización |
 
-## Licencia de los datos
-
-PlantVillage es un dataset público para investigación. El detalle de la licencia
-está en la página de Kaggle.
