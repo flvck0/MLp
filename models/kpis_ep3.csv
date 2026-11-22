@@ -1,0 +1,15 @@
+KPI,meta,modelo,obtenido,cumple
+F1 macro prueba oficial,"≥ 0,91",MLP EP3,0.8215,NO
+F1 macro prueba ampliada,"≥ 0,90",MLP EP3,0.8307,NO
+Recall enfermas (prueba oficial),"≥ 0,90",MLP EP3,0.7792,NO
+% enfermas → sana (ampliada),≤ 1 %,MLP EP3,0.0221,NO
+Brecha de generalización,"≤ 0,10",MLP EP3,0.1552,NO
+Desv. estándar F1 val entre semillas,"≤ 0,02",MLP EP3,0.0168,SÍ
+Diferencia de recall entre orígenes,"≤ 0,15",MLP EP3,0.3777,NO
+F1 macro prueba oficial,"≥ 0,91",CNN EP3,0.9067,NO
+F1 macro prueba ampliada,"≥ 0,90",CNN EP3,0.9144,SÍ
+Recall enfermas (prueba oficial),"≥ 0,90",CNN EP3,0.8833,NO
+% enfermas → sana (ampliada),≤ 1 %,CNN EP3,0.0049,SÍ
+Brecha de generalización,"≤ 0,10",CNN EP3,0.0719,SÍ
+Desv. estándar F1 val entre semillas,"≤ 0,02",CNN EP3,0.0034,SÍ
+Diferencia de recall entre orígenes,"≤ 0,15",CNN EP3,0.2987,NO

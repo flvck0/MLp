@@ -1,0 +1,43 @@
+{
+  "MLP": {
+    "elegida": "Base",
+    "config": {
+      "tipo_modelo": "MLP",
+      "capas": [
+        256,
+        128
+      ],
+      "dropout": 0.3,
+      "batchnorm": true,
+      "l2": 0.0001,
+      "aumento": "geom",
+      "learning_rate": 0.001,
+      "label_smoothing": 0.0,
+      "batch_size": 32,
+      "early_stopping": true
+    },
+    "cambios": "(igual a la base)"
+  },
+  "CNN": {
+    "elegida": "Base",
+    "config": {
+      "tipo_modelo": "CNN",
+      "filtros": [
+        32,
+        64,
+        128
+      ],
+      "cabeza": "flatten",
+      "neuronas": 128,
+      "dropout": 0.4,
+      "batchnorm": true,
+      "l2": 0.0,
+      "aumento": "geom",
+      "learning_rate": 0.001,
+      "label_smoothing": 0.0,
+      "batch_size": 32,
+      "early_stopping": true
+    },
+    "cambios": "(igual a la base)"
+  }
+}

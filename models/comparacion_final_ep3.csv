@@ -1,0 +1,16 @@
+,MLP optimizado (EP3),CNN optimizada (EP3)
+F1 macro — prueba oficial,0.8214842882607588,0.9066570484954888
+F1 macro — prueba ampliada,0.83072330933063,0.9144292943024442
+ROC-AUC macro — prueba ampliada,0.9789340073778625,0.9943955444855863
+Recall enfermas — prueba oficial,0.7791666666666667,0.8833333333333333
+% enfermas → sana — prueba ampliada,0.022122852435867264,0.004942339373970346
+ECE (calibración) — prueba ampliada,0.03124799194179961,0.021509015326188007
+Brecha (train − prueba oficial),0.15523809523809518,0.07190476190476192
+Desv. estándar F1 val (3 semillas),0.016815867522590754,0.00336346636059037
+Caída media de F1 ante perturbaciones (pp),16.260960779712025,30.744686742344022
+Mayor diferencia de recall entre orígenes,0.37772422441990383,0.29867391346147676
+% evidencia LIME sobre la hoja,34.234001375734806,39.616676600029066
+Grad-CAM disponible,no (sin convoluciones),sí (47 % en hoja)
+Parámetros,3181061.0,1143493.0
+Segundos por época (CPU),1.390689830051586,4.947748069628054
+"Tiempo de entrenamiento (s, CPU)",76.46536910133364,214.18669755799996
